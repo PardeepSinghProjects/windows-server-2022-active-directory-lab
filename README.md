@@ -345,7 +345,7 @@ This project demonstrates practical experience with:
 
 ### Finance Mapped Drive
 
-![Finance Mapped Drive](screenshots/08-finance-mapped-drive.png)
+![Finance Mapped Drive](screenshots/08-mapped-drive.png)
 
 ### Group Policy Verification
 
