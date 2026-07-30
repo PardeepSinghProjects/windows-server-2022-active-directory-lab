@@ -317,7 +317,7 @@ This project demonstrates practical experience with:
 
 ### VMware Lab Environment
 
-![VMware Lab Environment](screenshots/01-vmware-lab.png)
+![VMware Lab Environment](screenshots/01-lab-environment.png)
 
 ### Server Roles
 
@@ -325,7 +325,7 @@ This project demonstrates practical experience with:
 
 ### Active Directory Structure
 
-![Active Directory Structure](screenshots/03-active-directory-structure.png)
+![Active Directory Structure](screenshots/03-ou-users-groups.png)
 
 ### DNS Configuration
 
@@ -349,7 +349,7 @@ This project demonstrates practical experience with:
 
 ### Group Policy Verification
 
-![Group Policy Verification](screenshots/09-gpresult.png)
+![Group Policy Verification](screenshots/09-group-policy-verification.png)
 
 ## Key Takeaways
 
